@@ -1,0 +1,42 @@
+/*style1.css*/
+
+
+header { color: white;
+		background-color: #00897b;}
+/*ul.logPanel li{list-style: none;
+				display: inline-block;
+				color:white;}
+ul.logPanel li a{text-decoration: none;}*/
+
+/*.test1{background-color: #00897b;
+		color: white;}*/
+ul.navRight li a{	font-family: 'Baloo Bhai', Arial;
+					font-size: 32px;
+					color: white;
+					margin:36px auto;
+					}
+#guser{color:black;}
+#guser1{color:black;}
+#guser2{color:black;}
+#button1{color:black;
+		text-decoration: none;
+		}
+#button2{color:black;
+		text-decoration: none;}
+ul.button12 li{margin-bottom: 20px;
+				list-style: none;}
+ul.navRight li a:hover{color:#00897b;}
+h1{font-family: 'Baloo Bhai', Arial;
+	font-size: 40px;
+	margin:50px auto;}
+
+/*ul.navRight li{text-align: center;}*/
+
+/*CC test*/
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;}
+
+
+/*CC test end*/

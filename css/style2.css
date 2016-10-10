@@ -1,0 +1,24 @@
+/*style2*/
+header { color: white;
+		background-color: #00897b;}
+
+/*#reservedate{font-family: 'Baloo Bhai', Arial;
+			font-size: 32px; }*/
+
+.reservedate{font-family: 'Baloo Bhai', Arial;
+			font-size: 32px;
+			/*border:2px solid grey;*/
+			/*margin: 20px, auto;*/ }
+
+/*.dropdown{display: inline-block;
+			margin: 0px 50px 0px 50px;}*/
+
+section{margin: 50px auto;
+		text-align: center;
+		max-width:80%;}
+#button1{margin-top: 20px;}
+h2{font-family: 'Baloo Bhai', Arial;
+			font-size: 40px;
+			/*margin:50px auto;*/}
+
+/*form{margin:20px auto;}*/

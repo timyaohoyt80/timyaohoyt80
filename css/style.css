@@ -1,0 +1,25 @@
+/*Tim's steak table reserve system index css document*/
+body{ /*background-image:url(https://www.peppermillreno.com/library/images/backgrounds/reservations.jpg);*/
+		background-image:url(http://hotelgrandplazabd.com/img/gallery/restaurant/resgallery_2.jpg);
+	/*background-color: #ffffff;*/
+		/*background-color: #e5382e;*/
+		border-radius:6px;
+		color: #ffffff;}
+header{background-color: #e5382e;
+		/*color: #ffffff;*/
+		text-align: center;
+		border-radius: 6px;}
+/*ul.GuideInfo{background-color: #e5382e;}*/
+ul.GuideInfo li{font-size: 2em;
+				background-color:#ffffff ;
+				color: grey;
+				/*background-color: #e5382e;*/
+				/*padding: 5px 0px 5px 0px;*/
+				margin: 0px 0px 15px 0px;
+				border:1px solid white;
+				border-radius: 4px;
+				/*border:1px solid white;*/}
+h3{text-align: center;}
+/*#SubmitButton{margin: 0px,0px,40px,0px;}*/
+#emaillogin {margin: 20px auto;}
+#submit1{background-color:#e5382e; }

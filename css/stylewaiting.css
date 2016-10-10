@@ -1,0 +1,14 @@
+/*stylewaiting.css*/
+body{ /*background-image:url(https://www.peppermillreno.com/library/images/backgrounds/reservations.jpg);*/
+		/*background-image:url(http://paulrudnick.com/secret/wp-content/uploads/2015/09/waiting-2.jpg);
+		background-repeat: no-repeat;*/
+	background-color: #ffffff;
+		/*border-radius:6px;*/
+		color: blue;
+		z-index: -1;}
+
+#wait1, #wait2{font-size: 32px;
+		text-align: center;
+		}
+
+/*figure{background-image:url(http://paulrudnick.com/secret/wp-content/uploads/2015/09/waiting-2.jpg;}*/
