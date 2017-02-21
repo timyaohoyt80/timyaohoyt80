@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table, th , td {
+            border: 1px solid grey;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+        table tr:nth-child(odd) {
+            background-color: #f1f1f1;
+        }
+        table tr:nth-child(even) {
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+
+<div id="id01"></div>
+
+<script>
+function myFunction(arr) {
+    var out = "<table>";
+    var i;
+    for(i = 0; i<arr.length; i++) {
+        out += '<tr><td>"' + arr[i].position + '"</td><td>' +
+        arr[i].teamName +'"</td><td>' + arr[i].crestURI + '"</td><td>' + arr[i].playedGames + '"</td><td>' + arr[i].points + '"</td><td>' + arr[i].goals + '"</td><td>' + arr[i].goalsAgainst + '"</td><td>' + arr[i].goalDifference + '"</td><td>' + arr[i].wins + '"</td><td>' + arr[i].draws + '"</td><td>' + arr[i].losses + '</td></tr>';
+    }
+    document.getElementById("id01").innerHTML = out;
+}
+</script>
+<script src="myTutorials.js"></script>
+
+</body>
+</html>
+<!-- 
+arr[i]. + '"</td><td>' -->

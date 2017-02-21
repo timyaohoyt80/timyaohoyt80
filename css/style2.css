@@ -16,9 +16,19 @@ header { color: white;
 section{margin: 50px auto;
 		text-align: center;
 		max-width:80%;}
-#button1{margin-top: 20px;}
-h2{font-family: 'Baloo Bhai', Arial;
+#button1{margin: 20px 0px 20px 0px;}
+h2{font-family: Arial, 'Baloo Bhai';
 			font-size: 40px;
 			/*margin:50px auto;*/}
-
+section.contactinformation{font-family: Arial;
+							/*text-align: center;*/
+							
+							/*width:80%;*/
+							/*background-color: red;*/	}
+.custom{width: 40%;
+		margin:0px auto;
+	border: 2px solid lightgrey;
+	box-shadow: 10px 10px 5px grey;}
+form{width: 80%;
+	margin:0px auto;}
 /*form{margin:20px auto;}*/

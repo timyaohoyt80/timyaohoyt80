@@ -3,6 +3,8 @@
 
 header { color: white;
 		background-color: #00897b;}
+section{margin: 10px auto;}
+/*nav.custom{margin: 300px, 0px, 0px, 0px;}*/
 /*ul.logPanel li{list-style: none;
 				display: inline-block;
 				color:white;}
@@ -10,10 +12,14 @@ ul.logPanel li a{text-decoration: none;}*/
 
 /*.test1{background-color: #00897b;
 		color: white;}*/
-ul.navRight li a{	font-family: 'Baloo Bhai', Arial;
-					font-size: 32px;
+
+/*div.navR1 {border:10px solid #00897b;}*/
+div.navRBackground {background-color: #00897b;
+			}
+ul.navRight li a{	font-family: Arial, 'Baloo Bhai';
+					font-size: 40px;
 					color: white;
-					margin:36px auto;
+					/*margin:-6px auto;*/
 					}
 #guser{color:black;}
 #guser1{color:black;}
@@ -25,13 +31,15 @@ ul.navRight li a{	font-family: 'Baloo Bhai', Arial;
 		text-decoration: none;}
 ul.button12 li{margin-bottom: 20px;
 				list-style: none;}
-ul.navRight li a:hover{color:#00897b;}
-h1{font-family: 'Baloo Bhai', Arial;
+/*ul.navRight li a:hover{color:#00897b;}*/
+h1{font-family: Arial, 'Baloo Bhai';
 	font-size: 40px;
 	margin:50px auto;}
-
+/*.navbarcustom{color: #00897b;
+	border-radius: 0px;}*/
 /*ul.navRight li{text-align: center;}*/
-
+ul.navbarcustom {color: #00897b;
+				border-radius: 0px;}
 /*CC test*/
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
